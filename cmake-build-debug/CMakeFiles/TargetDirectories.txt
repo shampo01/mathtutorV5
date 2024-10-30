@@ -1,0 +1,3 @@
+/Users/yungeen/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+/Users/yungeen/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yungeen/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
